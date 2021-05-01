@@ -1,22 +1,6 @@
-Brandi HTML5 Bootstraped Business Template
+Meghna OnePage HTML5 Business Template
 ========
+<img src="https://cloud.githubusercontent.com/assets/10640964/6306960/0ac45dea-b962-11e4-8bd6-f7d5283701e1.jpg" />
 
-<img src ="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" />
-
-<a href="http://themefisher.com/download/brandi-corporate-template/> Live Preview </a>
-
-=========
-
-Brandi is a corporate template that is perfect for individuals or businesses. This theme comes with crisp animation and is responsive meaning it looks great on all devices.These demo is just a example … you can make your own color schemes to further customize your template.
-
-Key Feature
-
-100% Responsive Design
-Bootstrap 3.2 Compatible
-Valid HTML5/CSS3 Markup
-Google Fonts Support
-Clean Code, All files are well commented and organized
-Documentation File Included
-PSD credit: https://dribbble.com/themecurve
-
-A template By <a href="http://www.themefisher.com>Themefisher</a>
+========
+Meghna is a Responsive minimalist, simple, elegant and clean style, a strong focus on contents and readability. It presents a modern business solution. Meghna is suitable for websites such as business, company, portfolio . It is superbly responsive adapting to any kinds of smart phones and mobile devices. Code is easy to modify and understand so you can personalize it in the easiest way.

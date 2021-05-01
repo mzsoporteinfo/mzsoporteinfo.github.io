@@ -7,6 +7,11 @@ Licensed under the MIT license - http://opensource.org/licenses/MIT
 Copyright (c) 2013 Daniel Eden
 */
 
+
+html, body {
+	overflow: hidden; 
+}
+
 .animated {
   -webkit-animation-duration: 1.5s;
   animation-duration: 1.5s;
